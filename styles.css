@@ -1,13 +1,14 @@
 header{
-    background-color: aqua;
+    background-color: rgb(255, 128, 198);
     text-align: center;
     padding: 15px;
     border-radius: 15px;
 }
 body{
-    color:aliceblue;
-    background-image: linear-gradient(to left,black,white);
+    color:rgb(0, 0, 0);
+    background-image: linear-gradient(to left,rgba(255, 99, 151, 0.822),rgb(255, 130, 193));
     font-family: sans-serif;
+    font-style: italic;
     font-size: 20px;
 }
 footer{
