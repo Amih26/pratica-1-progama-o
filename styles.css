@@ -1,0 +1,22 @@
+header{
+    background-color: rgba(203, 255, 144, 0.966);
+    text-align: center;
+    padding: 15px;
+    border-radius: 15px;
+}
+body{
+    color:aliceblue;
+    background-image: linear-gradient(to left,rgb(255, 96, 189),rgb(255, 130, 182));
+    font-family: sans-serif;
+    font-style: italic;
+    font-size: 20px;
+}
+footer{
+    text-align: center;
+}
+.imagem{
+    text-align: center;
+}
+.botao{ 
+    border-radius: 20px;
+}
